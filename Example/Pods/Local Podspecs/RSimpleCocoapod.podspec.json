@@ -1,0 +1,22 @@
+{
+  "name": "RSimpleCocoapod",
+  "version": "0.1.0",
+  "summary": "A short description of RSimpleCocoapod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/imrajeshcoder/RSimpleCocoapod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "imrajeshcoder": "rajesh.s@vrinsoft.com"
+  },
+  "source": {
+    "git": "https://github.com/imrajeshcoder/RSimpleCocoapod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "RSimpleCocoapod/Classes/**/*"
+}

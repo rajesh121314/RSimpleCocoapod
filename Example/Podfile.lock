@@ -1,0 +1,16 @@
+PODS:
+  - RSimpleCocoapod (0.1.0)
+
+DEPENDENCIES:
+  - RSimpleCocoapod (from `../`)
+
+EXTERNAL SOURCES:
+  RSimpleCocoapod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RSimpleCocoapod: 7c3f10776eb132b39d72b63a8dd0ada1ee95071f
+
+PODFILE CHECKSUM: 91113959aa31e6ead634e7be441779d429d51583
+
+COCOAPODS: 1.13.0
